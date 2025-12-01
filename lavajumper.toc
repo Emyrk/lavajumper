@@ -4,4 +4,4 @@
 ## Author: Emyrk
 ## Version: 1.0
 
-LavaJump.lua
+jump.lua
