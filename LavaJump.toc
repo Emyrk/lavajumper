@@ -1,0 +1,7 @@
+## Interface: 11500
+## Title: Lava Jump Timer
+## Notes: Displays a timer for lava damage ticks to help with lava jumping
+## Author: Emyrk
+## Version: 1.0
+
+LavaJump.lua
